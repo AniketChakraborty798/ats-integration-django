@@ -1,4 +1,4 @@
-# ATS Integration Microservic
+# ATS Integration Microservices
 
 ## Project Overview
 This project is an ATS (Applicant Tracking System) Integration Microservice developed using Django and Django REST Framework.  
